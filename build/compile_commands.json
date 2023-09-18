@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/minseok/Desktop/work/programming/opengl_test/build",
+  "command": "g++  -I/opt/homebrew/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -g -o CMakeFiles/test.out.dir/main.cpp.o -c /Users/minseok/Desktop/work/programming/opengl_test/main.cpp",
+  "file": "/Users/minseok/Desktop/work/programming/opengl_test/main.cpp",
+  "output": "CMakeFiles/test.out.dir/main.cpp.o"
+}
+]

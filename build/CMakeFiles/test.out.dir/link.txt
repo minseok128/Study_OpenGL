@@ -1,0 +1,1 @@
+g++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test.out.dir/main.cpp.o -o test.out   -L/opt/homebrew/lib  -Wl,-rpath,/opt/homebrew/lib -lglut.3 -Xlinker -framework -Xlinker OpenGL -Xlinker -framework -Xlinker OpenGL 
